@@ -36,10 +36,9 @@ address{
 
 /* 초기화 */
 
-div.wrap {
-    width: 720px;
+/* .wrap{
+    width: 1000px;
     margin: 0 auto;
-}
-
+} */
 /* 전체화 */
 
